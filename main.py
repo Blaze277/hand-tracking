@@ -56,4 +56,6 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
 hands.close()
+#say you want this
